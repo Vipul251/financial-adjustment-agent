@@ -114,6 +114,8 @@ account_code
 ---
 
 ## 📤 Output
+<img width="1883" height="916" alt="image" src="https://github.com/user-attachments/assets/8c415c3b-5129-4502-b59d-75dbf439a5c9" />
+
 
 The system categorizes results into:
 
