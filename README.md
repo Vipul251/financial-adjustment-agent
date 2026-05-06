@@ -115,6 +115,10 @@ account_code
 
 ## 📤 Output
 <img width="1883" height="916" alt="image" src="https://github.com/user-attachments/assets/8c415c3b-5129-4502-b59d-75dbf439a5c9" />
+<img width="1894" height="818" alt="image" src="https://github.com/user-attachments/assets/415f81dd-1849-4829-96f4-135efadf09a6" />
+<img width="1717" height="885" alt="image" src="https://github.com/user-attachments/assets/8376b7b0-6db2-44dc-b772-3b6881173567" />
+
+
 
 
 The system categorizes results into:
@@ -171,4 +175,3 @@ It focuses on correctness, explainability, and handling real-world data issues.
 ## 👨‍💻 Author
 
 Vipul Bhatt
-AI / Agentic Systems Enthusiast
